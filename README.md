@@ -19,5 +19,8 @@
 - **Why are features deprecated? An investigation into the motivation behind deprecation** (ICSME, 2018) [[pdf]](https://sback.it/publications/icsme2018b.pdf) 
 - **The driving forces of API evolution** (IWPSE, 2015) [[paper]](https://dl.acm.org/citation.cfm?id=2804364)
 
-
-
+## Embedding
+- **code2vec: Learning Distributed Representations of Code** (POPL, 2019) [[pdf]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2018/12/code2vec-popl19.pdf)
+- **Exploring API embedding for API usages and applications** (ICSE, 2017) [[paper]](https://dl.acm.org/citation.cfm?id=3097421)
+- **Import2vec - Learning Embeddings for Software Libraries** (MSR, 2019) [[pdf]](https://arxiv.org/pdf/1904.03990.pdf)
+- **Cross-language clone detection by learning over abstract syntax trees** (MSR, 2019) [[pdf]](https://static.perez.sh/research/2019/cross-language-clone-detection/clone-detection-msr19.pdf)
